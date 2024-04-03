@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/nicholashadweh/portfolio/wordle/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/wordle.dir/main.cpp.o -c /Users/nicholashadweh/portfolio/wordle/main.cpp",
+  "file": "/Users/nicholashadweh/portfolio/wordle/main.cpp",
+  "output": "CMakeFiles/wordle.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/nicholashadweh/portfolio/wordle/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/wordle.dir/functions.cpp.o -c /Users/nicholashadweh/portfolio/wordle/functions.cpp",
+  "file": "/Users/nicholashadweh/portfolio/wordle/functions.cpp",
+  "output": "CMakeFiles/wordle.dir/functions.cpp.o"
+}
+]
